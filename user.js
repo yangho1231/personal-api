@@ -1,52 +1,52 @@
 var user = {
-  name: "Yang",
-  location: "Provo",
-  occupations: ["Programmer", "zzzzz"],
+  name: "yang",
+  location: "provo",
+  occupations: ["student", "programmer", "napper"],
   hobbies: [
     {
       name: "Basketball",
-      type: "Sports"
+      type: "sports"
     },
     {
-      name: "Nap",
-      type: "Sports"
+      name: "Running",
+      type: "sports"
     },
     {
-      name: "Play Games",
-      type: "Video Games"
+      name: "heartstone",
+      type: "video game"
     }
   ],
   family: [
     {
-      name: "Yang",
-      relation: "Brother",
-      gender: "Male"
+      name: "guldan",
+      relation: "brother",
+      gender: "male"
     },
     {
-      name: "Hellscream",
-      relation: "Brother",
-      gender: "Male"
+      name: "jarvan iv",
+      relation: "brother",
+      gender: "male"
     },{
-      name: "hohoho",
-      relation: "hoho",
-      gender: "Male"
+      name: "ashe",
+      relation: "sister",
+      gender: "female"
     }
   ],
   restaurants: [
     {
-      name: "Taste of Punjab",
-      type: "Indian",
+      name: 'pie pizza',
+      type: 'american',
+      rating: 7
+    },
+    {
+      name: 'cheescake factory',
+      type: 'fushion',
       rating: 8
     },
     {
-      name: "Rodigio",
-      type: "Brazilian",
-      rating: 9
-    },
-    {
-      name: "Cheesecake Factory",
-      type: "Fusion",
-      rating: 9
+      name: 'donald trump',
+      type: 'american',
+      rating: 4
     }
   ]
 };

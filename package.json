@@ -18,7 +18,6 @@
   "homepage": "https://github.com/yangho1231/personal-api#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
-    "express": "^4.14.0",
-    "express-session": "^1.14.2"
+    "express": "^4.14.0"
   }
 }
